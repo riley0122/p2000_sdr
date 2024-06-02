@@ -6,3 +6,10 @@ Dit is een programma om p2000 meldingen te ontvangen met een SDR.
 Deze branch is voor een nieuwe versie voor windows en linux!
 
 Het originele programma (dat niet werkt) is nog beschikbaar op de 'master' branch
+
+=======================================
+
+INSTALLATIE
+
+Om het programma te installeren is gnuradio nodig.
+Op deze website staan installatie instructies: https://wiki.gnuradio.org/index.php/InstallingGR
